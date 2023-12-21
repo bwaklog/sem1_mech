@@ -1,4 +1,4 @@
-def q1():
+def q_5_106():
     import sympy as sym
     import math as M 
 
@@ -22,7 +22,7 @@ def q1():
     print(f"Value of Moment at A : {res[Ma]:.2f}")
 
 
-def q2():
+def q_6_9():
     import sympy as sym
     import math as M 
 
@@ -44,7 +44,7 @@ def q2():
     print(f"Value of Nb : {res[Nb]:.2f}")
     print(f"Value of P : {res[P]:.2f}")
 
-def q3():
+def q_6_19():
     import sympy as sym
     import math as M
 

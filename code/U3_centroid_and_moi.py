@@ -1,4 +1,4 @@
-def q1():
+def q_5_50():
     import sympy as sym
     import pandas as pd
     import math as M 
@@ -31,7 +31,7 @@ def q1():
     print(f"Location of the centroid from base is : {round(Ybar,2)}")
 
 
-def q2():
+def q_5_53():
     import pandas as pd
     import math as M
 
@@ -56,7 +56,7 @@ def q2():
     print(f"Location of centroid on Y axis is : {round(Ybar,2)}")
     print(f"Location of centroid on X axis is : 0")
 
-def q3():
+def q_A_54():
     import sympy as sym
     from sympy import simplify
 
